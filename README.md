@@ -1,8 +1,8 @@
 # Mini-Project-2
 
 ## Table of Contents
-[Abstract](https://github.com/CP322-Machine-Learning-Group/Mini-Project-2/blob/main/README.md#abstract)
-[Introduction](https://github.com/CP322-Machine-Learning-Group/Mini-Project-2/blob/main/README.md#introduction)
+[Abstract](https://github.com/CP322-Machine-Learning-Group/Mini-Project-2/blob/main/README.md#abstract) <br />
+[Introduction](https://github.com/CP322-Machine-Learning-Group/Mini-Project-2/blob/main/README.md#introduction) <br />
 
 ### Abstract
 Implement five different classifications. These models include Logistic
